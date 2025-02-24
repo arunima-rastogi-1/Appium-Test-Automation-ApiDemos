@@ -23,3 +23,41 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/Appium-Test-Automation-ApiDemos.git
+   ```
+## ✅ Verify Appium Installation
+```sh
+appium-doctor
+```
+
+🚀 Start the Appium Server
+sh
+Copy
+Edit
+appium
+
+📱 Connect an Emulator or Real Device
+sh
+Copy
+Edit
+adb devices
+🏃 Run the Test Scripts
+sh
+Copy
+Edit
+mvn test
+📜 Test Cases
+The project includes automated test cases to validate:
+
+Navigation through app menus
+Handling alerts and pop-ups
+Gestures (swipe, long press, drag-and-drop)
+Form inputs and validation
+Interactions with different UI elements
+📌 Test Execution
+Run test cases using TestNG/JUnit
+Log results for debugging and reporting
+🤝 Contributing
+Contributions are welcome! Feel free to submit pull requests to improve test coverage and automation techniques.
+
+📄 License
+This project is open-source and licensed under the MIT License.
