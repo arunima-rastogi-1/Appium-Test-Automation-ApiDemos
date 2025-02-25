@@ -29,11 +29,10 @@ Ensure you have the following installed:
 appium-doctor
 ```
 
-🚀 Start the Appium Server
-sh
-Copy
-Edit
+## 🚀 Start the Appium Server
+```sh
 appium
+```
 
 📱 Connect an Emulator or Real Device
 sh
