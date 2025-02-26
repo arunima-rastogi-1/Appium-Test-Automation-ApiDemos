@@ -34,16 +34,16 @@ appium-doctor
 appium
 ```
 
-📱 Connect an Emulator or Real Device
-sh
-Copy
-Edit
+## 📱 Connect an Emulator or Real Device
+```sh
 adb devices
-🏃 Run the Test Scripts
-sh
-Copy
-Edit
+```
+
+## 🏃 Run the Test Scripts
+```sh
 mvn test
+```
+
 📜 Test Cases
 The project includes automated test cases to validate:
 
