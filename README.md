@@ -44,14 +44,15 @@ adb devices
 mvn test
 ```
 
-##📜 Test Cases
+## 📜 Test Cases
 The project includes automated test cases to validate:
 
-Navigation through app menus
-Handling alerts and pop-ups
-Gestures (swipe, long press, drag-and-drop)
-Form inputs and validation
-Interactions with different UI elements
+-> Navigation through app menus
+-> Handling alerts and pop-ups
+-> Gestures (swipe, long press, drag-and-drop)
+-> Form inputs and validation
+-> Interactions with different UI elements
+
 📌 Test Execution
 Run test cases using TestNG/JUnit
 Log results for debugging and reporting
