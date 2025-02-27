@@ -53,11 +53,12 @@ The project includes automated test cases to validate:
 -> Form inputs and validation
 -> Interactions with different UI elements
 
-📌 Test Execution
-Run test cases using TestNG/JUnit
-Log results for debugging and reporting
-🤝 Contributing
+## 📌 Test Execution
+Run test cases using TestNG/JUnit.
+Log results for debugging and reporting.
+
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests to improve test coverage and automation techniques.
 
-📄 License
+## 📄 License
 This project is open-source and licensed under the MIT License.
