@@ -44,7 +44,7 @@ adb devices
 mvn test
 ```
 
-📜 Test Cases
+##📜 Test Cases
 The project includes automated test cases to validate:
 
 Navigation through app menus
