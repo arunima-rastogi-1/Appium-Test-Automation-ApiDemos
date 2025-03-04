@@ -59,6 +59,6 @@ Log results for debugging and reporting.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests to improve test coverage and automation techniques.
-
+ 
 ## 📄 License
 This project is open-source and licensed under the MIT License.
